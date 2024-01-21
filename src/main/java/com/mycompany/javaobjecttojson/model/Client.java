@@ -47,11 +47,4 @@ public class Client {
     public String toString() {
         return "Client{" + "UUID=" + UUID + ", firstName=" + firstName + ", lastName=" + lastName + ", email=" + email + '}';
     }
-    
-    
-    
-    
-    
-    
-    
 }
